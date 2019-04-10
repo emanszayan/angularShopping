@@ -10,7 +10,7 @@
 # dependencies
 /node_modules
 .editorconfig
-/e2e
+
 angular.json
 # profiling files
 chrome-profiler-events.json
